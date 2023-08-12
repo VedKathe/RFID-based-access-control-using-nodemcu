@@ -9,7 +9,7 @@ This project implements an RFID-based access control system using NodeMCU (ESP82
 2. [Prerequisites](#prerequisites)
 3. [Hardware Setup](#hardware-setup)
 4. [Web Interface](#web-interface)
-5. [NodeMCU - RC522 Connection](#nodemcu-rc522-connection)
+5. [NodeMCU - RC522 Connection](#nodemcu---rc522-connection)
 6. [Usage](#usage)
 8. [License](#license)
 
